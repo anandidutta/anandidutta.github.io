@@ -1,6 +1,5 @@
 ### My Homepage
 
-I am a `data scientist` in mind and `transportation systems engineer` by profession. I occasionally write data science blogs and push them in `rpubs`. Recently I am trying to develop `shiny tools` for transportation safety research. 
+I am a researcher and educator in the field of Computer Science and Engineering. I will keep posting my research and teaching efforts here. 
 
-* [Website](http://subasish.github.io)
-* [Data Science Blogs](http://subasish.github.io/blogs)
+* [Website](http://anandidutta.github.io)
